@@ -263,7 +263,9 @@ Kode di atas melakukan beberapa hal terkait pemrosesan gambar untuk mendapatkan 
 
 Dengan demikian, kodingan tersebut melakukan beberapa operasi dasar pada citra, seperti konversi ke grayscale, thresholding untuk mendapatkan citra biner, dan segmentasi warna dalam ruang warna HSV.
 
-
+## Teori Pendukung
+(https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html) <br>
+(https://youtu.be/ebPiV5M9-DQ?si=VKuk2U0cV0IVHlNz) <br>
 
 
 
